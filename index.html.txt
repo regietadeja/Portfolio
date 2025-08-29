@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Regie D. Tadeja - Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    header img {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #fff;
+    }
+    header h1 {
+      margin: 15px 0 5px;
+      font-size: 2rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      opacity: 0.8;
+    }
+    header a {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #e67e22;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+    header a:hover {
+      background: #d35400;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    section h2 {
+      margin-bottom: 20px;
+      color: #2c3e50;
+      border-bottom: 2px solid #e67e22;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #2c3e50;
+      color: white;
+      margin-top: 40px;
+    }
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 1.5rem;
+      }
+      section {
+        padding: 30px 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://via.placeholder.com/140" alt="Profile Photo">
+    <h1>Regie D. Tadeja</h1>
+    <p>Licensed Customs Broker | Logistics Professional</p>
+    <a href="REGIE_D_TADEJA_RESUME.pdf" download>📄 Download Resume</a>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am looking for a suitable job and an opportunity where I could practice my knowledge and develop my personality as a career person while utilizing my skills and bringing out the best of my potentials for the glory of God and for the benefit of my employer, the community, and myself in preparation for future advancement to top management.</p>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Logistics Assistant</strong> – Crimson Group Inc. (Nov 2019 - Present)</li>
+      <li><strong>Customer Service Specialist / In-plant Assistant</strong> – Yusen Logistics Philippines (2018 - 2019)</li>
+      <li><strong>Marketing Assistant</strong> – Hyundai Merchant Marine Phils. (2016 - 2018)</li>
+      <li><strong>Customer Service Representative</strong> – EcotechPhil Corporation (2016)</li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <p><strong>Bachelor of Science in Customs Administration</strong><br>Batangas State University (2011 - 2015)</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills & Licenses</h2>
+    <ul>
+      <li>Licensed Customs Broker (2015)</li>
+      <li>Knowledgeable in Customs Regulations & Tariff Classification</li>
+      <li>Strong communication & interpersonal skills</li>
+      <li>Flexible, hardworking, and result-oriented</li>
+    </ul>
+  </section>
+
+  <section id="seminars">
+    <h2>Seminars & Training</h2>
+    <ul>
+      <li>Updates on Supply Chain Management, Incoterms 2020 & Excise Tax (2023)</li>
+      <li>Revenue Regulation 07-2022 on Excise Tax (2022)</li>
+      <li>CTRL+BIZ Logistics: Advanced Supply Chain (2020)</li>
+      <li>Fundamentals of Logistics (2020)</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📧 Email: <a href="mailto:regiedevilla15@gmail.com">regiedevilla15@gmail.com</a></p>
+    <p>📱 Mobile: 0912-824-9796</p>
+    <p>📍 Address: Primavera Phase II, Darasa Tanauan City, Batangas</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Regie D. Tadeja | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
